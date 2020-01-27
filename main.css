@@ -1,0 +1,41 @@
+/* Main.Css
+Jan 23, 2020
+
+Bootstrap
+
+Colorscheme:
+Main:       #F2182F
+Secondary:  #4AA3AE 
+Tertiary:   #3A3335
+
+*/
+
+body, .jumbotron {
+    border-radius: 0px !important;
+}
+
+.navbar {
+    padding: 2vh;
+    font-size: 1.2em;
+    vertical-align: middle;
+}
+
+.navbar-brand {
+    font-size: 1.4em;
+}
+
+.bg-main {
+    background-color: #F2182F !important;
+}
+
+.bg-secondary {
+    background-color: #4AA3AE !important;
+}
+
+.bg-tertiary {
+    background-color: #3A3335 !important;
+}
+
+.text-secondary {
+    color: #4AA3AE !important;
+}
